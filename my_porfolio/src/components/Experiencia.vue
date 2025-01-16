@@ -1,7 +1,7 @@
 <template>
     <section id="experiencia" class="py-16">
       <div class="container mx-auto px-4">
-        <h2 class=" text-center text-4xl font-extrabold text-tertiary mb-12">Experiencia Laboral</h2>
+        <h2 class=" text-center text-4xl font-extrabold text-tertiary mb-12">Experiencia Profesional</h2>
         <div class="grid md:grid-cols-2 gap-8 ">
           <div v-for="(experiencia, index) in experienciasVisibles" :key="index"
             class="bg-primary rounded-lg shadow-md p-6 transition duration-300 ease-in-out hover:shadow-lg border-l-4 border-purple-600"

@@ -44,8 +44,8 @@ const headerRef = ref(null); // Referencia al header
 
 const Menu = ref([
   { name: "Inicio", href: "#inicio" },
-  { name: "Experiencia Laboral", href: "#experiencia" },
-  { name: "Proyectos Personales", href: "#proyectos" },
+  { name: "Experiencia Profesional", href: "#experiencia" },
+  { name: "Proyectos Realizados", href: "#proyectos" },
   { name: "Habilidades", href: "#skills" },
   { name: "Formacion Educativa", href: "#educacion" },
   { name: "Contacto", href: "#contacto" },

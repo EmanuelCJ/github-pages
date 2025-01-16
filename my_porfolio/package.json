@@ -11,16 +11,20 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@unhead/vue": "^1.11.18",
     "aos": "^2.3.4",
+    "install": "^0.13.0",
     "lucide-vue-next": "^0.469.0",
+    "npm": "^11.0.0",
     "pinia": "^2.2.6",
     "tailwindcss-motion": "^1.0.0",
-    "vue": "^3.5.12",
+    "vue": "^3.5.13",
+    "vue-recaptcha": "^3.0.0-alpha.6",
     "vue-router": "^4.4.5",
     "vue-sweetalert2": "^5.0.11"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.1.4",
+    "@vitejs/plugin-vue": "^5.2.1",
     "autoprefixer": "^10.4.20",
     "gh-pages": "^6.2.0",
     "postcss": "^8.4.49",

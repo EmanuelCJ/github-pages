@@ -12,7 +12,8 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      '@': fileURLToPath(new URL('./src', import.meta.url))
+      '@': fileURLToPath(new URL('./src', import.meta.url)),
+      '@unhead/vue': '/node_modules/@unhead/vue',
     },
   },
   base:'https://EmanuelCJ.github.io/github-pages',

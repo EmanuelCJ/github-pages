@@ -3,11 +3,12 @@
     <NavBar></NavBar>
     <div>
       <presentacion></presentacion>
-      <esperiencia></esperiencia>
+      <experiencia></experiencia>
       <proyectos></proyectos>
       <skills></skills>
       <formacion></formacion>
       <Contacto></Contacto>
+      <WhastsApp />
     </div>
     <Footer></Footer>
   </div>
@@ -16,12 +17,14 @@
 <script setup>
 import NavBar from '@/components/NavBar.vue';
 import presentacion from '@/components/Presentacion.vue';
-import esperiencia from '@/components/Experiencia.vue';
+import experiencia from '@/components/Experiencia.vue';
+import proyectos from '@/components/proyectos.vue';
 import skills from '@/components/Skills.vue';
 import formacion from '@/components/Formacion.vue';
-import proyectos from '@/components/proyectos.vue';
 import Contacto from '@/components/Contacto.vue';
 import Footer from '@/components/Footer.vue';
+import WhastsApp from '@/components/WhastsApp.vue';
 </script>
 
-<style scoped></style>
+<style scoped>
+</style>

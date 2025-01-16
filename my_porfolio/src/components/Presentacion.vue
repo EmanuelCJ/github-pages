@@ -10,16 +10,18 @@
         <div class="lg:py-6">
           <div class="text-center lg:text-left write">
             <h1 class="pt-4 text-white font-bold text-4xl media1 media2">
-              <span class="text-transparent font-bold bg-clip-text bg-gradient-to-r from-blue-800 to-purple-500">
-                Andrea Isabel Marín
+              <span class="text-transparent font-bold bg-clip-text bg-gradient-to-r from-blue-500 to-purple-700">
+                Andrea Marín
+              </span>
+            </h1>
+            <h1 class="media1 media2">
+              <span class="text-transparent font-bold text-3xl bg-clip-text bg-gradient-to-r from-blue-500 to-purple-700">
+                Licenciada en Turismo
               </span>
             </h1>
           </div>
-          <p class="text-tertiary font-bold pt-8 text-center lg:text-left mx-auto max-w-xl">
-            Profesional con casi 25 años de experiencia en el sector turístico, tanto en el ámbito privado como en el
-            público y en ONGs. Ha trabajado como asesora y evaluadora de proyectos turísticos, y ha participado en la
-            creación del Colegio de Profesionales del Turismo de la Provincia del Neuquén. Además, ha desarrollado
-            normas de gestión de calidad para playas, balnearios y establecimientos termales.
+          <p class="text-tertiary font-bold pt-8 text-center text-lg lg:text-left mx-auto max-w-xl">
+            Consultora Profesional Especialista en Calidad Turística, Ambiente y Comunicación. Magister en Marketing de Servicios. Especialista Internacional en Periodismo de Viajes y Turismo.
           </p>
           <div class="flex items-center gap-3 pt-9 flex-col sm:flex-row sm:w-max sm:mx-auto lg:mx-0">
             <button class="px-6 md:px-7 py-3 rounded-full relative group w-full sm:w-max flex justify-center">
@@ -54,8 +56,8 @@
             </div>
             <div
               class="absolute h-full z-10 p-2 -translate-y-1/2 top-1/2 lg:right-3 md:right-40 sm:right-16 rounded-full shadow-lg transition-transform duration-300 hover:scale-105">
-              <img src="@/assets/mujer.jpg" alt="hero pic" loading="lazy"
-                class="w-full h-full rounded-full object-cover border-secondary border-4 motion-preset-shake">
+              <img src="@/assets/Andrea.png" alt="Foto de Andrea" loading="lazy"
+                class="w-full h-full rounded-full object-cover border-secondary border-[0.3rem] motion-preset-shake">
             </div>
           </div>
         </div>
@@ -67,7 +69,6 @@
 <script setup>
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-
 import cv from '@/assets/CV.pdf';
 
 AOS.init();
