@@ -1,0 +1,110 @@
+{
+  "menu": {
+    "home": "Inicio",
+    "experience": "Experiencia Profesional",
+    "projects": "Proyectos Realizados",
+    "skills": "Habilidades",
+    "education": "Formación Educativa",
+    "contact": "Contacto"
+  },
+  "presentacion": {
+    "titulo": "Licenciada en Turismo",
+    "texto": "Consultora Profesional Especialista en Calidad Turística, Ambiente y Comunicación. Magister en Marketing de Servicios. Especialista Internacional en Periodismo de Viajes y Turismo.",
+    "link1": "Contacto",
+    "link2": "Descargar CV"
+  },
+  "Experiencia": {
+    "titulo": "Experiencia Profesional",
+    "titulo1": "Asesora y evaluadora de Proyectos Turísticos",
+    "descripcion1": "Trabajo en organismos públicos y privados evaluando y asesorando proyectos turísticos.",
+    "titulo2": "Desarrollo de indicadores económicos",
+    "descripcion2": "Creación de indicadores económicos para la inversión turística.",
+    "titulo3": "Implementadora y auditora de calidad",
+    "descripcion3": "Especializada en Normas Sectoriales de Turismo e ISO 9001.",
+    "titulo4": "Capacitadora y auditora en hostelería",
+    "descripcion4": "Experiencia en hoteles y restaurantes en Centroamérica y España.",
+    "titulo5": "Asesora técnica en proyectos de ley",
+    "descripcion5": "Asesoramiento técnico en la elaboración y formulación de proyectos de ley para organismos descentralizados y legislativos.",
+    "titulo6": "Socia fundadora del Colegio de Profesionales del Turismo de Neuquén",
+    "descripcion6": "Vicepresidenta en la primera gestión y miembro del tribunal de ética desde 2012.",
+    "titulo7": "Desarrollo de normas IRAM",
+    "descripcion7": "Investigación, elaboración y desarrollo de normas IRAM para la gestión de calidad, seguridad y ambiental en playas, balnearios y establecimientos termales.",
+    "titulo8": "Auditora de Sistemas de Calidad",
+    "descripcion8": "Certificada por IRAM como auditora de sistemas de calidad según la Norma Internacional ISO 9001.",
+    "titulo9": "Capacitadora en Normas Sectoriales de Turismo",
+    "descripcion9": "Capacitadora, implementadora y auditora de calidad en Normas Sectoriales de Turismo e ISO 9001.",
+    "titulo10": "Miembro del Sub-Comité de Turismo del IRAM",
+    "descripcion10": "Participación como miembro del Sub-Comité de Turismo del Instituto Argentino de Normalización y Certificación (IRAM).",
+    "titulo11": "Coordinadora del Proyecto ATHEL RUCA",
+    "descripcion11": "Coordinación del Proyecto ATHEL RUCA para la certificación en competencias laborales en el sector gastronómico, hotelero y turístico.",
+    "titulo12": "Docente en la Universidad de San Gregorio de Portoviejo",
+    "descripcion12": "Desarrollo de tareas docentes en el Módulo Desarrollo Turístico Sostenible Municipal en la Maestría en Turismo.",
+    "titulo13": "Periodista y Escritora de Turismo",
+    "descripcion13": "Colaboración en la elaboración de libros y redacción de artículos en revistas especializadas, así como columnista en medios masivos de comunicación.",
+    "titulo14": "Conductora y Productora de Programa de TV",
+    "descripcion14": "Conductora y productora del programa Café Turístico, emitido en televisión y redes sociales.",
+    "titulo15": "Liderazgo en SKAL Internacional",
+    "descripcion15": "Participación en la creación de la mesa local para la Promoción de los Principios del Pacto Global de Naciones Unidas en la Patagonia y en congresos de SKAL.",
+    "titulo16": "Fundadora de Asís Patagonia y Fund Asis",
+    "descripcion16": "Creación y dirección de la consultora Asís Patagonia y la Fundación fund Asis."
+  },
+  "proyectos": {
+    "titulo": "Proyectos Realizados",
+    "titulo1": "Consultora Asís Patagonia",
+    "descripcion1": "Consultora especializada en turismo, calidad, comunicación y sostenibilidad, fundada en 2001.",
+    "titulo2": "Fundación Fund Asis",
+    "descripcion2": "Entidad creada en 2014, dedicada a impulsar proyectos de desarrollo en turismo, educación, medio ambiente y acción social.",
+    "titulo3": "Programa Café Turístico",
+    "descripcion3": "Iniciativa lanzada en 2016, que incluye un programa de entrevistas radiales, televisivas y en redes sociales, diseñado para promover el turismo en sus múltiples dimensiones.",
+    "titulo4": "Proyecto ATHEL RUCA",
+    "descripcion4": "Programa de capacitación creado para certificar competencias laborales en los sectores gastronómico, hotelero y turístico.",
+    "link": "Más info Presione Aqui"
+  },
+  "skills": {
+    "titulo": "Mis Habilidades",
+    "titulo1": "Idiomas",
+    "descripcion1": "Fluidez en español, italiano, portugués, alemán e inglés.",
+    "titulo2": "Innovación y Creatividad",
+    "descripcion2": "Capacidad para desarrollar soluciones innovadoras y creativas en proyectos turísticos.",
+    "titulo3": "Trabajo en Equipo",
+    "descripcion3": "Habilidad para colaborar eficazmente con equipos multidisciplinarios.",
+    "titulo4": "Gestión de Proyectos",
+    "descripcion4": "Experiencia en la planificación, ejecución y supervisión de proyectos turísticos.",
+    "titulo5": "Conocimiento del Sector Turístico",
+    "descripcion5": "Amplio conocimiento del sector turístico y sus normativas.",
+    "titulo6": "Comunicación",
+    "descripcion6": "Habilidad para comunicar ideas de manera clara y efectiva, tanto de forma escrita como oral.",
+    "titulo7": "Liderazgo",
+    "descripcion7": "Capacidad para liderar equipos y proyectos, motivando a los miembros del equipo para alcanzar objetivos comunes."
+  },
+  "educacion": {
+    "titulo": "Formación Educativa",
+    "titulo1": "Licenciatura en Turismo",
+    "descripcion1": "Egresada de la Universidad Nacional del Comahue (UNCo), Argentina, con Especialización en Gestión de Calidad Turística.",
+    "titulo2": "Maestría en Marketing de Servicios",
+    "descripcion2": "Obtenida en la Universidad Nacional del Comahue (UNCo).",
+    "titulo3": "Gestor Tecnológico en Eficiencia Energética",
+    "descripcion3": "Título otorgado por el gobierno de la Provincia del Neuquén junto con el Consejo Federal de Inversiones (CFI), dictado por la Facultad de Ingeniería de la UNCO."
+  },
+  "contacto": {
+    "texto1": "¿Tienes alguna pregunta o comentario? ¡Escríbeme!",
+    "texto2": "Contáctame",
+    "name": "Nombre",
+    "AlertaName": "Por favor, ingrese un nombre válido.",
+    "email": "Correo Electrónico",
+    "AlertaEmail": "Por favor, ingrese un correo electrónico válido.",
+    "msj": "Mensaje",
+    "AlertaMsj": "Por favor, ingrese un mensaje válido (sin código).",
+    "captcha": "Regenerar Código",
+    "AlertaCaptcha": "Por favor, ingrese el código CAPTCHA correctamente.",
+    "enviando": "Enviando...",
+    "Enviar": "Enviar Mensaje",
+    "ayuda": "Ingrese el código"
+  },
+  "footer": {
+    "pie": "Andrea Isabel Marín. Todos los derechos reservados."
+  },
+  "wha": {
+    "mensaje": "Hola! Me gustaría saber más sobre sus servicios."
+  }
+}

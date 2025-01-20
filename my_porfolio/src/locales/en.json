@@ -1,0 +1,110 @@
+{
+  "menu": {
+    "home": "Home",
+    "experience": "Professional Experience",
+    "projects": "Completed Projects",
+    "skills": "Skills",
+    "education": "Educational Background",
+    "contact": "Contact"
+  },
+  "presentacion": {
+    "titulo": "Bachelor in Tourism",
+    "texto": "Professional Consultant Specialist in Tourism Quality, Environment, and Communication. Master's in Service Marketing. International Specialist in Travel and Tourism Journalism.",
+    "link1": "Contact",
+    "link2": "Download Resume"
+  },
+  "Experiencia": {
+    "titulo": "Professional Experience",
+    "titulo1": "Tourism Projects Advisor and Evaluator",
+    "descripcion1": "Worked in public and private organizations evaluating and advising on tourism projects.",
+    "titulo2": "Development of Economic Indicators",
+    "descripcion2": "Creation of economic indicators for tourism investment.",
+    "titulo3": "Quality Implementer and Auditor",
+    "descripcion3": "Specialized in Tourism Sector Standards and ISO 9001.",
+    "titulo4": "Trainer and Auditor in Hospitality",
+    "descripcion4": "Experience in hotels and restaurants in Central America and Spain.",
+    "titulo5": "Technical Advisor on Legislative Projects",
+    "descripcion5": "Technical advice on drafting and formulating legislative projects for decentralized and legislative bodies.",
+    "titulo6": "Founding Member of the Neuquén Tourism Professionals Association",
+    "descripcion6": "Vice President in the first term and member of the ethics tribunal since 2012.",
+    "titulo7": "Development of IRAM Standards",
+    "descripcion7": "Research, drafting, and development of IRAM standards for quality, safety, and environmental management in beaches, spas, and thermal establishments.",
+    "titulo8": "Quality Systems Auditor",
+    "descripcion8": "Certified by IRAM as a quality systems auditor according to the International ISO 9001 Standard.",
+    "titulo9": "Trainer in Tourism Sector Standards",
+    "descripcion9": "Trainer, implementer, and quality auditor in Tourism Sector Standards and ISO 9001.",
+    "titulo10": "Member of the IRAM Tourism Subcommittee",
+    "descripcion10": "Participation as a member of the Tourism Subcommittee of the Argentine Institute of Standardization and Certification (IRAM).",
+    "titulo11": "Coordinator of the ATHEL RUCA Project",
+    "descripcion11": "Coordination of the ATHEL RUCA Project for the certification of labor competencies in the gastronomic, hotel, and tourism sectors.",
+    "titulo12": "Professor at the University of San Gregorio de Portoviejo",
+    "descripcion12": "Teaching tasks in the Sustainable Municipal Tourism Development Module in the Tourism Master's Program.",
+    "titulo13": "Tourism Journalist and Writer",
+    "descripcion13": "Collaboration in book preparation and writing articles in specialized magazines, as well as a columnist in mass media.",
+    "titulo14": "TV Program Host and Producer",
+    "descripcion14": "Host and producer of the Café Turístico program, broadcast on television and social networks.",
+    "titulo15": "Leadership in SKAL International",
+    "descripcion15": "Participation in the creation of the local board for the Promotion of the United Nations Global Compact Principles in Patagonia and in SKAL congresses.",
+    "titulo16": "Founder of Asís Patagonia and Fund Asis",
+    "descripcion16": "Creation and management of the Asís Patagonia consultancy and Fund Asis Foundation."
+  },
+  "proyectos": {
+    "titulo": "Completed Projects",
+    "titulo1": "Asís Patagonia Consulting",
+    "descripcion1": "Consultancy specializing in tourism, quality, communication, and sustainability, founded in 2001.",
+    "titulo2": "Fund Asis Foundation",
+    "descripcion2": "Entity created in 2014, dedicated to promoting development projects in tourism, education, environment, and social action.",
+    "titulo3": "Café Turístico Program",
+    "descripcion3": "Initiative launched in 2016, including a program of radio, television, and social media interviews designed to promote tourism in its various dimensions.",
+    "titulo4": "ATHEL RUCA Project",
+    "descripcion4": "Training program created to certify labor competencies in the gastronomic, hotel, and tourism sectors.",
+    "link": "More info Click Here"
+  },
+  "skills": {
+    "titulo": "My Skills",
+    "titulo1": "Languages",
+    "descripcion1": "Fluent in Spanish, Italian, Portuguese, German, and English.",
+    "titulo2": "Innovation and Creativity",
+    "descripcion2": "Ability to develop innovative and creative solutions in tourism projects.",
+    "titulo3": "Teamwork",
+    "descripcion3": "Skill in effectively collaborating with multidisciplinary teams.",
+    "titulo4": "Project Management",
+    "descripcion4": "Experience in planning, executing, and supervising tourism projects.",
+    "titulo5": "Knowledge of the Tourism Sector",
+    "descripcion5": "Extensive knowledge of the tourism sector and its regulations.",
+    "titulo6": "Communication",
+    "descripcion6": "Ability to communicate ideas clearly and effectively, both in writing and orally.",
+    "titulo7": "Leadership",
+    "descripcion7": "Ability to lead teams and projects, motivating team members to achieve common goals."
+  },
+  "educacion": {
+    "titulo": "Educational Background",
+    "titulo1": "Bachelor's Degree in Tourism",
+    "descripcion1": "Graduate from the National University of Comahue (UNCo), Argentina, specializing in Tourism Quality Management.",
+    "titulo2": "Master's in Service Marketing",
+    "descripcion2": "Obtained from the National University of Comahue (UNCo).",
+    "titulo3": "Technological Manager in Energy Efficiency",
+    "descripcion3": "Title granted by the government of the Province of Neuquén along with the Federal Investment Council (CFI), taught by the Faculty of Engineering of UNCo."
+  },
+  "contacto": {
+    "texto1": "Do you have any questions or comments? Write to me!",
+    "texto2": "Contact Me",
+    "name": "Name",
+    "AlertaName": "Please enter a valid name.",
+    "email": "Email",
+    "AlertaEmail": "Please enter a valid email address.",
+    "msj": "Message",
+    "AlertaMsj": "Please enter a valid message (no code).",
+    "captcha": "Regenerate Code",
+    "AlertaCaptcha": "Please enter the CAPTCHA code correctly.",
+    "enviando": "Sending...",
+    "Enviar": "Send Message",
+    "ayuda": "Enter the code"
+  },
+  "footer": {
+    "pie": "Andrea Isabel Marín. All rights reserved."
+  },
+  "wha": {
+    "mensaje": "Hello! I would like to know more about your services."
+  }
+}

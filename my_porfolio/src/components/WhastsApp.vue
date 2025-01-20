@@ -22,7 +22,7 @@
 import { MessageCircle } from 'lucide-vue-next'
 import { computed } from 'vue'
 
-const phoneNumber = '5492995792597 ' //  número de WhatsApp
+const phoneNumber = '5492995792597' //  número de WhatsApp
 const message = 'Hola! Me gustaría saber más sobre sus servicios.' // Mensaje predeterminado
 
 const whatsappLink = computed(() => {

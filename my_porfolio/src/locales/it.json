@@ -1,0 +1,111 @@
+{
+    "menu": {
+      "home": "Inizio",
+      "experience": "Esperienza Professionale",
+      "projects": "Progetti Realizzati",
+      "skills": "Competenze",
+      "education": "Formazione Educativa",
+      "contact": "Contatto"
+    },
+    "presentacion": {
+      "titulo": "Laureata in Turismo",
+      "texto": "Consulente Professionale Specialista in Qualità Turistica, Ambiente e Comunicazione. Master in Marketing dei Servizi. Specialista Internazionale in Giornalismo di Viaggi e Turismo.",
+      "link1": "Contatto",
+      "link2": "Scarica CV"
+    },
+    "Experiencia": {
+      "titulo": "Esperienza Professionale",
+      "titulo1": "Consulente e Valutatrice di Progetti Turistici",
+      "descripcion1": "Lavoro in enti pubblici e privati valutando e consigliando progetti turistici.",
+      "titulo2": "Sviluppo di indicatori economici",
+      "descripcion2": "Creazione di indicatori economici per investimenti turistici.",
+      "titulo3": "Implementatrice e revisore della qualità",
+      "descripcion3": "Specializzata in Norme Settoriali del Turismo e ISO 9001.",
+      "titulo4": "Formatrice e revisore in ambito alberghiero",
+      "descripcion4": "Esperienza in hotel e ristoranti in America Centrale e Spagna.",
+      "titulo5": "Consulente tecnico per progetti di legge",
+      "descripcion5": "Consulenza tecnica per la redazione e la formulazione di progetti di legge per enti decentrati e legislativi.",
+      "titulo6": "Socio fondatore dell’Ordine dei Professionisti del Turismo di Neuquén",
+      "descripcion6": "Vicepresidente nella prima gestione e membro del tribunale etico dal 2012.",
+      "titulo7": "Sviluppo di norme IRAM",
+      "descripcion7": "Ricerca, elaborazione e sviluppo di norme IRAM per la gestione della qualità, sicurezza e ambiente in spiagge, stabilimenti balneari e termali.",
+      "titulo8": "Revisore di Sistemi di Qualità",
+      "descripcion8": "Certificata da IRAM come revisore di sistemi di qualità secondo la Norma Internazionale ISO 9001.",
+      "titulo9": "Formatrice in Norme Settoriali di Turismo",
+      "descripcion9": "Formatrice, implementatrice e revisore della qualità in Norme Settoriali di Turismo e ISO 9001.",
+      "titulo10": "Membro del Sotto-Comitato del Turismo IRAM",
+      "descripcion10": "Partecipazione come membro del Sotto-Comitato del Turismo dell’Istituto Argentino di Normalizzazione e Certificazione (IRAM).",
+      "titulo11": "Coordinatore del Progetto ATHEL RUCA",
+      "descripcion11": "Coordinamento del Progetto ATHEL RUCA per la certificazione delle competenze lavorative nei settori gastronomico, alberghiero e turistico.",
+      "titulo12": "Docente all'Università San Gregorio di Portoviejo",
+      "descripcion12": "Svolgimento di attività didattiche nel Modulo Sviluppo Turistico Sostenibile Municipale nel Master in Turismo.",
+      "titulo13": "Giornalista e Scrittrice di Turismo",
+      "descripcion13": "Collaborazione nella realizzazione di libri e redazione di articoli in riviste specializzate, nonché editorialista in mezzi di comunicazione di massa.",
+      "titulo14": "Conduttrice e Produttrice di Programmi TV",
+      "descripcion14": "Conduttrice e produttrice del programma Café Turístico, trasmesso in televisione e sui social network.",
+      "titulo15": "Leadership in SKAL Internazionale",
+      "descripcion15": "Partecipazione alla creazione della tavola locale per la Promozione dei Principi del Patto Globale delle Nazioni Unite in Patagonia e in congressi SKAL.",
+      "titulo16": "Fondatrice di Asís Patagonia e Fondazione Asis",
+      "descripcion16": "Creazione e direzione della consulenza Asís Patagonia e della Fondazione Fond Asis."
+    },
+    "proyectos": {
+      "titulo": "Progetti Realizzati",
+      "titulo1": "Consulenza Asís Patagonia",
+      "descripcion1": "Consulenza specializzata in turismo, qualità, comunicazione e sostenibilità, fondata nel 2001.",
+      "titulo2": "Fondazione Fond Asis",
+      "descripcion2": "Entità creata nel 2014, dedicata a promuovere progetti di sviluppo in turismo, istruzione, ambiente e azione sociale.",
+      "titulo3": "Programma Café Turístico",
+      "descripcion3": "Iniziativa lanciata nel 2016, che comprende un programma di interviste radiofoniche, televisive e sui social network, progettato per promuovere il turismo nelle sue molteplici dimensioni.",
+      "titulo4": "Progetto ATHEL RUCA",
+      "descripcion4": "Programma di formazione creato per certificare le competenze lavorative nei settori gastronomico, alberghiero e turistico.",
+      "link": "Per ulteriori informazioni Clicca Qui"
+    },
+    "skills": {
+      "titulo": "Le Mie Competenze",
+      "titulo1": "Lingue",
+      "descripcion1": "Fluente in spagnolo, italiano, portoghese, tedesco e inglese.",
+      "titulo2": "Innovazione e Creatività",
+      "descripcion2": "Capacità di sviluppare soluzioni innovative e creative in progetti turistici.",
+      "titulo3": "Lavoro di Squadra",
+      "descripcion3": "Abilità di collaborare efficacemente con team multidisciplinari.",
+      "titulo4": "Gestione dei Progetti",
+      "descripcion4": "Esperienza nella pianificazione, esecuzione e supervisione di progetti turistici.",
+      "titulo5": "Conoscenza del Settore Turistico",
+      "descripcion5": "Ampia conoscenza del settore turistico e delle sue normative.",
+      "titulo6": "Comunicazione",
+      "descripcion6": "Capacità di comunicare idee in modo chiaro ed efficace, sia oralmente che per iscritto.",
+      "titulo7": "Leadership",
+      "descripcion7": "Capacità di guidare team e progetti, motivando i membri per raggiungere obiettivi comuni."
+    },
+    "educacion": {
+      "titulo": "Formazione Educativa",
+      "titulo1": "Laurea in Turismo",
+      "descripcion1": "Laureata presso l'Università Nazionale del Comahue (UNCo), Argentina, con Specializzazione in Gestione della Qualità Turistica.",
+      "titulo2": "Master in Marketing dei Servizi",
+      "descripcion2": "Conseguito presso l'Università Nazionale del Comahue (UNCo).",
+      "titulo3": "Gestore Tecnologico in Efficienza Energetica",
+      "descripcion3": "Titolo conferito dal governo della Provincia di Neuquén insieme al Consiglio Federale degli Investimenti (CFI), tenuto dalla Facoltà di Ingegneria dell'UNCO."
+    },
+    "contacto": {
+      "texto1": "Hai domande o commenti? Scrivimi!",
+      "texto2": "Contattami",
+      "name": "Nome",
+      "AlertaName": "Inserisci un nome valido.",
+      "email": "Email",
+      "AlertaEmail": "Inserisci un indirizzo email valido.",
+      "msj": "Messaggio",
+      "AlertaMsj": "Inserisci un messaggio valido (senza codice).",
+      "captcha": "Rigenera Codice",
+      "AlertaCaptcha": "Inserisci correttamente il codice CAPTCHA.",
+      "enviando": "Invio in corso...",
+      "Enviar": "Invia Messaggio",
+      "ayuda": "Inserisci il codice"
+    },
+    "footer": {
+      "pie": "Andrea Isabel Marín. Tutti i diritti riservati."
+    },
+    "wha": {
+      "mensaje": "Ciao! Mi piacerebbe sapere di più sui vostri servizi."
+    }
+  }
+  

@@ -1,5 +1,5 @@
 <template>
-  <header ref="headerRef" class="absolute w-full top-0 left-0 flex justify-between items-center p-6 bg-mustard/95 z-50"
+  <header ref="headerRef" class="absolute w-full top-0 left-0 flex justify-between items-center p-6 bg-mustard/95 z-50 mt-5"
     data-aos="zoom-in-up">
     <div class="text-dark-gray text-3xl font-bold relative z-50">
       <LinksRedes />
@@ -23,7 +23,7 @@
             <a :href="item.href"
               class="block text-dark-gray text-2xl md:text-lg font-medium transition-all duration-200 hover:text-purple hover:scale-105"
               @click="scrollToSection(item.href)">
-              {{ item.name }}
+              {{ $t(item.name) }}
             </a>
           </li>
         </ul>
@@ -43,12 +43,12 @@ const headerHeight = ref(0); // Variable para almacenar la altura del header
 const headerRef = ref(null); // Referencia al header
 
 const Menu = ref([
-  { name: "Inicio", href: "#inicio" },
-  { name: "Experiencia Profesional", href: "#experiencia" },
-  { name: "Proyectos Realizados", href: "#proyectos" },
-  { name: "Habilidades", href: "#skills" },
-  { name: "Formacion Educativa", href: "#educacion" },
-  { name: "Contacto", href: "#contacto" },
+    { name: "menu.home", href: "#inicio" },
+    { name: "menu.experience", href: "#experiencia" },
+    { name: "menu.projects", href: "#proyectos" },
+    { name: "menu.skills", href: "#skills" },
+    { name: "menu.education", href: "#educacion" },
+    { name: "menu.contact", href: "#contacto" },
 ]);
 
 const toggleMenu = () => {

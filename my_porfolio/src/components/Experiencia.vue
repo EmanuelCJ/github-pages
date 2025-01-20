@@ -1,16 +1,16 @@
 <template>
     <section id="experiencia" class="py-16">
       <div class="container mx-auto px-4">
-        <h2 class=" text-center text-4xl font-extrabold text-tertiary mb-12">Experiencia Profesional</h2>
+        <h2 class=" text-center text-4xl font-extrabold text-tertiary mb-12">{{$t("Experiencia.titulo")}}</h2>
         <div class="grid md:grid-cols-2 gap-8 ">
           <div v-for="(experiencia, index) in experienciasVisibles" :key="index"
             class="bg-primary rounded-lg shadow-md p-6 transition duration-300 ease-in-out hover:shadow-lg border-l-4 border-purple-600"
             data-aos="fade-up">
             <div class="flex items-center mb-4 ">
               <component :is="experiencia.icon" class="w-6 h-6 text-white mr-3" />
-              <h3 class="text-xl font-semibold text-white">{{ experiencia.titulo }}</h3>
+              <h3 class="text-xl font-semibold text-white">{{ $t(experiencia.titulo) }}</h3>
             </div>
-            <p class="text-white">{{ experiencia.descripcion }}</p>
+            <p class="text-white">{{ $t(experiencia.descripcion) }}</p>
           </div>
         </div>
         <div class="text-center mt-8">
@@ -29,83 +29,83 @@
   
   const experiencias = [
     {
-      titulo: "Asesora y evaluadora de Proyectos Turísticos",
-      descripcion: "Trabajo en organismos públicos y privados evaluando y asesorando proyectos turísticos.",
+      titulo: "Experiencia.titulo1",
+      descripcion: "Experiencia.descripcion1",
       icon: Briefcase
     },
     {
-      titulo: "Desarrollo de indicadores económicos",
-      descripcion: "Creación de indicadores económicos para la inversión turística.",
+      titulo: "Experiencia.titulo2",
+      descripcion: "Experiencia.descripcion2",
       icon: ChartBar
     },
     {
-      titulo: "Implementadora y auditora de calidad",
-      descripcion: "Especializada en Normas Sectoriales de Turismo e ISO 9001.",
+      titulo: "Experiencia.titulo3",
+      descripcion: "Experiencia.descripcion3",
       icon: ClipboardCheck
     },
     {
-      titulo: "Capacitadora y auditora en hostelería",
-      descripcion: "Experiencia en hoteles y restaurantes en Centroamérica y España.",
+      titulo: "Experiencia.titulo4",
+      descripcion: "Experiencia.descripcion4",
       icon: GraduationCap
     },
     {
-      titulo: "Asesora técnica en proyectos de ley",
-      descripcion: "Asesoramiento técnico en la elaboración y formulación de proyectos de ley para organismos descentralizados y legislativos.",
+      titulo: "Experiencia.titulo5",
+      descripcion: "Experiencia.descripcion5",
       icon: Scale
     },
     {
-      titulo: "Socia fundadora del Colegio de Profesionales del Turismo de Neuquén",
-      descripcion: "Vicepresidenta en la primera gestión y miembro del tribunal de ética desde 2012.",
+      titulo: "Experiencia.titulo6",
+      descripcion: "Experiencia.descripcion6",
       icon: Users
     },
     {
-      titulo: "Desarrollo de normas IRAM",
-      descripcion: "Investigación, elaboración y desarrollo de normas IRAM para la gestión de calidad, seguridad y ambiental en playas, balnearios y establecimientos termales.",
+      titulo: "Experiencia.titulo7",
+      descripcion: "Experiencia.descripcion7",
       icon: ClipboardList
     },
     {
-      titulo: "Auditora de Sistemas de Calidad",
-      descripcion: "Certificada por IRAM como auditora de sistemas de calidad según la Norma Internacional ISO 9001.",
+      titulo: "Experiencia.titulo8",
+      descripcion: "Experiencia.descripcion8",
       icon: CheckCircle
     },
     {
-      titulo: "Capacitadora en Normas Sectoriales de Turismo",
-      descripcion: "Capacitadora, implementadora y auditora de calidad en Normas Sectoriales de Turismo e ISO 9001.",
+      titulo: "Experiencia.titulo9",
+      descripcion: "Experiencia.descripcion9",
       icon: GraduationCap
     },
     {
-      titulo: "Miembro del Sub-Comité de Turismo del IRAM",
-      descripcion: "Participación como miembro del Sub-Comité de Turismo del Instituto Argentino de Normalización y Certificación (IRAM).",
+      titulo: "Experiencia.titulo10",
+      descripcion: "Experiencia.descripcion10",
       icon: Users
     },
     {
-      titulo: "Coordinadora del Proyecto ATHEL RUCA",
-      descripcion: "Coordinación del Proyecto ATHEL RUCA para la certificación en competencias laborales en el sector gastronómico, hotelero y turístico.",
+      titulo: "Experiencia.titulo11",
+      descripcion: "Experiencia.descripcion11",
       icon: ScrollText
     },
     {
-      titulo: "Docente en la Universidad de San Gregorio de Portoviejo",
-      descripcion: "Desarrollo de tareas docentes en el Módulo Desarrollo Turístico Sostenible Municipal en la Maestría en Turismo.",
+      titulo: "Experiencia.titulo12",
+      descripcion: "Experiencia.descripcion12",
       icon: University
     },
     {
-      titulo: "Periodista y Escritora de Turismo",
-      descripcion: "Colaboración en la elaboración de libros y redacción de artículos en revistas especializadas, así como columnista en medios masivos de comunicación.",
+      titulo: "Experiencia.titulo13",
+      descripcion: "Experiencia.descripcion13",
       icon: BookCopy
     },
     {
-      titulo: "Conductora y Productora de Programa de TV",
-      descripcion: "Conductora y productora del programa Café Turístico, emitido en televisión y redes sociales.",
+      titulo: "Experiencia.titulo14",
+      descripcion: "Experiencia.descripcion14",
       icon: Tv
     },
     {
-      titulo: "Liderazgo en SKAL Internacional",
-      descripcion: "Participación en la creación de la mesa local para la Promoción de los Principios del Pacto Global de Naciones Unidas en la Patagonia y en congresos de SKAL.",
+      titulo: "Experiencia.titulo15",
+      descripcion: "Experiencia.descripcion15",
       icon: Globe
     },
     {
-      titulo: "Fundadora de Asís Patagonia y Fund Asis",
-      descripcion: "Creación y dirección de la consultora Asís Patagonia y la Fundación Fund Asis.",
+      titulo: "Experiencia.titulo16",
+      descripcion: "Experiencia.descripcion16",
       icon: Building
     }
   ];

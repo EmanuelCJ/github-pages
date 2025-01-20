@@ -15,19 +15,19 @@
               </span>
             </h1>
             <h1 class="media1 media2">
-              <span class="text-transparent font-bold text-3xl bg-clip-text bg-gradient-to-r from-blue-500 to-purple-700">
-                Licenciada en Turismo
+              <span class="text-transparent font-bold text-2xl md:text-3xl bg-clip-text bg-gradient-to-r from-blue-500 to-purple-700">
+                {{ $t("presentacion.titulo") }}
               </span>
             </h1>
           </div>
           <p class="text-tertiary font-bold pt-8 text-center text-lg lg:text-left mx-auto max-w-xl">
-            Consultora Profesional Especialista en Calidad Turística, Ambiente y Comunicación. Magister en Marketing de Servicios. Especialista Internacional en Periodismo de Viajes y Turismo.
+            {{ $t("presentacion.texto") }}
           </p>
           <div class="flex items-center gap-3 pt-9 flex-col sm:flex-row sm:w-max sm:mx-auto lg:mx-0">
             <button class="px-6 md:px-7 py-3 rounded-full relative group w-full sm:w-max flex justify-center">
               <span
                 class="absolute inset-0 rounded-3xl group-hover:scale-105 origin-center transition-all ease-in-out bg-primary border-2 border-transparent"></span>
-              <span class="relative flex items-center justify-center text-white"><a href="#contacto">Contacto</a></span>
+              <span class="relative flex items-center justify-center text-white"><a href="#contacto">{{ $t("presentacion.link1") }}</a></span>
             </button>
             <button
               class="border border-primary bg-primary px-6 md:px-7 py-3 rounded-full relative group w-full sm:w-max flex justify-center">
@@ -44,7 +44,7 @@
                   </svg>
                   <div class="download-loader text-white hidden"></div>
                 </div>
-                <a :href="cv" download="AndreaIsabelMarín.pdf" class="pl-2 text-white">Download CV</a>
+                <a :href="cv" download="AndreaIsabelMarín.pdf" class="pl-2 text-white">{{ $t("presentacion.link2") }}</a>
               </div>
             </button>
           </div>
@@ -70,8 +70,19 @@
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import cv from '@/assets/CV.pdf';
+import { ref } from 'vue';
 
 AOS.init();
+
+const presentacion = ref([
+    { name: "presentacion.home", href: "#inicio" },
+    { name: "presentacion.experience", href: "#experiencia" },
+    { name: "presentacion.projects", href: "#proyectos" },
+    { name: "presentacion.skills", href: "#skills" },
+    { name: "presentacion.education", href: "#educacion" },
+    { name: "presentacion.contact", href: "#contacto" },
+]);
+
 </script>
 
 <style scoped>

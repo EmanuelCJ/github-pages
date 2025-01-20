@@ -20,7 +20,7 @@
                 <a :href="item.href" 
                    class="hover:text-primary transition ease-linear"
                    @click="scrollToSection(item.href)">
-                  {{ item.name }}
+                  {{ $t(item.name) }}
                 </a>
               </li>
             </ul>
@@ -37,7 +37,7 @@
   
         <!-- Copyright -->
         <div class="text-center text-sm">
-          <p>&copy; {{ new Date().getFullYear() }} Andrea Isabel Marín. Todos los derechos reservados.</p>
+          <p>&copy; {{ new Date().getFullYear() }} {{ $t("footer.pie") }}</p>
         </div>
       </div>
     </footer>
@@ -48,10 +48,9 @@
   import LinksRedes from './LinksRedes.vue'
   
   const reducedMenu = ref([
-    { name: 'Inicio', href: '#inicio' },
-    { name: 'Proyectos', href: '#proyectos' },
-    { name: 'Habilidades', href: '#skills' },
-    { name: 'Contacto', href: '#contacto' },
+    { name: 'menu.home', href: '#inicio' },
+    { name: 'menu.projects', href: '#proyectos' },
+    { name: 'menu.skills', href: '#skills' },
   ]);
   
   const scrollToSection = (href) => {
